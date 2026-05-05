@@ -1,1 +1,0 @@
-# documentazione-n8n-mcp
